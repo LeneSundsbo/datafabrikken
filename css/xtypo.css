@@ -1,0 +1,13 @@
+p {
+  color: var(--fdkNeutralDarker);
+  font-family: "Heebo";
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5; }
+
+.fdkA {
+  color: var(--fdkNeutralDarker);
+  text-decoration: none; }
+
+.fdkA:hover {
+  color: var(--fdkNeutralDarker); }

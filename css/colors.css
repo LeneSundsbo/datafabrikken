@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* VALID */
+
+:root {
+  --fdkColorWhite: #fff;
+  --fdkColorNeutralDarkest: #121619;
+  --fdkColorNeutralDarker: #2D3741;
+  --fdkColorNeutralDark: #6C737A;
+  --fdkColorNeutral: #969BA0;
+  --fdkColorNeutralLight: #D5D7D9;
+  --fdkColorNeutralLighter: #DFE1E2;
+  --fdkColorNeutralLightest: #EEEFF0;
+
+  --fdkColorAlertWarningLightest: #FFF2D8;
+  --fdkColorAlertWarningDarker: #885B00;
+
+
+ }
